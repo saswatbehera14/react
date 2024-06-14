@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React code with buddy
+          Learn React code with buddy Simplicitylabs
         </a>
       </header>
     </div>
