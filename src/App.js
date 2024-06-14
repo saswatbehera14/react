@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React code with buddy Simplicitylabs email alert in cicd
+          Simplicitylabs email alert in cicd
         </a>
       </header>
     </div>
