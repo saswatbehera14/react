@@ -26,8 +26,8 @@ jobs:
         run: |
           npm install -g sonarqube-scanner
           sonar-scanner \
-			-Dsonar.projectKey=react \
-			-Dsonar.sources=. \
-			-Dsonar.host.url=http://3.110.174.26:9000 \
-			-Dsonar.token=sqp_d2ca04a1296de86d0daf27c8fa8a5dbc62445a33
+			      -Dsonar.projectKey=react \
+		      	-Dsonar.sources=. \
+			      -Dsonar.host.url=http://3.110.174.26:9000 \
+			      -Dsonar.token=sqp_d2ca04a1296de86d0daf27c8fa8a5dbc62445a33
 
